@@ -1,0 +1,9 @@
+{
+  "name": "digiplus-talk",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Aplikasi selling point HP untuk staff toko Digiplus",
+  "dependencies": {
+    "@netlify/blobs": "^11.0.0"
+  }
+}
